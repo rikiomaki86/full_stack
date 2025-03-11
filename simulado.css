@@ -1,0 +1,37 @@
+.flex-container{
+    background-color: purple;
+    color: aliceblue;
+    height: 120px;
+    width: 120px; ;
+    display: flex;
+    flex-direction: center;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+
+.center{ 
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+    }
+   
+
+.quadrado{
+    color:aliceblue;
+    background-color: indigo;
+    padding: 20px;
+    text-align:center;
+    height: 100;
+    width: 100px;
+    display: flex;
+    align-content: center;
+}
+
+.flex-foto{
+    height: 200px;
+    display:grid;
+    flex-direction: column;
+    justify-content:center;
+    align-content: flex-start;
+}
