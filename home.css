@@ -1,0 +1,95 @@
+.flex-container{
+    background-color: rgb(0, 110, 255);
+    color: white;
+    height: 50px;
+    width: all;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.sbc{
+    background-color: white;
+    height: 500px;
+    width: all;
+    align-content: flex-start;
+    align-items: baseline;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.sao{
+    color:blue
+}
+
+.bernardo{
+    color: gray;
+}
+
+.do{
+    color: orange;
+}
+
+.campo{
+    color: green;
+}
+
+.cinza{
+    background-color: whitesmoke;
+    height: 500px;
+    width: all;
+    align-content: space-around;
+    justify-content: center;
+}
+
+.laranja{
+    background-color: orange;
+    color: white;
+    height: 25px;
+    width: max-content;
+    flex-direction: row;
+    align-content: flex-start;
+    justify-content: flex-start;
+
+}
+
+.predio{
+    background-color: white;
+    height: 200px;
+    width: 150px;
+    justify-content: space-around;
+    align-content: flex-start;
+}
+
+.verde{
+    background-color: green;
+    color: white;
+    height: 25px;
+    width: max-content;
+    flex-direction: row;
+    align-content: space-around;
+    justify-content: center;
+
+}
+
+.azul{
+    background-color: blue;
+    color: white;
+    height: 25px;
+    width: max-content;
+    flex-direction: row;
+    align-content: space-between;
+    justify-content: center;
+
+}
+
+.final{
+    background-color: rgb(0, 110, 255);
+    color: white;
+    height: 50px;
+    width: all;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: flex-end;
+}
