@@ -1,0 +1,12 @@
+#rodape {
+    border: 2px solid blue;  
+    text-align: center;
+    color:darkolivegreen
+    background-color:burlywood;
+    padding: 40px;
+}
+
+#rodape2 {
+    border: opx solid;
+    text-align: center;
+}
