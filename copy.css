@@ -1,12 +1,88 @@
 #rodape {
     border: 2px solid blue;  
     text-align: center;
-    color:darkolivegreen
-    background-color:burlywood;
+    color:darkolivegreen;
+    background-color: bisque;
     padding: 40px;
 }
 
 #rodape2 {
-    border: opx solid;
+    border: 0px solid;
     text-align: center;
+    color: blueviolet;
+    background-color: aqua;
+    top: 0px;
+    left: 130px;
+    padding: 10px;
+}
+
+#formato{
+    text-align: center;
+}
+
+body{
+    background-color: lightgray;
+}
+
+#roxo{
+    color: blueviolet;
+}
+
+#tabela{
+    display: flex;
+    flex-direction: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 50px;
+    height: 150px;
+}
+
+table{
+    width: 30;
+    border: 2px solid red;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td, th{
+    padding: 8px;
+    border: 1px solid black;
+}
+
+#bordatabela{
+    border: 5px dotted red;
+    width: 300px;
+}
+
+td{
+    padding: 8px;
+    color: black;
+}
+
+tr:first-child td{
+    font-weight: bold;
+    color: red;
+}
+
+#yellow{
+    background-color: yellow;
+    color: black;
+    height: 100px;
+    width: 500px;
+    display: flex;
+}
+
+.flex-container{
+    height: 100px;
+    display: flex;
+    flex-direction: center;
+    flex-wrap: wrap;
+    padding: 30px;
+    justify-content: center;
+}
+
+#rodape3{
+    text-align: center;
+    background-color: bisque;
+    padding: 40px;
 }
