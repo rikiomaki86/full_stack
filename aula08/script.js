@@ -4,3 +4,7 @@ let carro = {
     marca: "toyota"
 
 }
+
+let carro2 {
+    
+}
