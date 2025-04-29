@@ -1,0 +1,21 @@
+body {
+    background-color: #f0f8ff; /* Cor do fundo */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+  }
+
+  #game-box {
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+  }
+
+  input, button {
+    margin-top: 10px;
+  }
